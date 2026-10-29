@@ -17,6 +17,12 @@
 | [`grade_calculator.py`](grade_calculator.py) | Averages marks out of 100 and gives a letter grade | lists, `if/elif`, raising errors |
 | [`word_frequency.py`](word_frequency.py) | Finds the most common words in some text | dictionaries, sorting with `key=` |
 
+## 🎮 Mini projects
+
+| Project | What it does | Concepts practiced |
+|---|---|---|
+| [`quiz-game/`](quiz-game) | Terminal multiple choice quiz with a JSON question bank, scoring and a leaderboard | JSON files, `random`, modules, tests |
+
 ## ▶️ How to run
 
 ```bash
@@ -33,7 +39,7 @@ Every exercise with functions has a test in [`tests/`](tests). They run on every
 
 ```bash
 pip install pytest
-python -m pytest
+python3 -m pytest
 ```
 
 ## 🧠 What I learned

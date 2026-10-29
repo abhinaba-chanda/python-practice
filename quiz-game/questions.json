@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Which keyword defines a function in Python?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "fn"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does len('hello') return?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "error"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which data type is immutable?",
+    "options": [
+      "list",
+      "dict",
+      "tuple",
+      "set"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is 7 // 2 in Python?",
+    "options": [
+      "3.5",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which method adds an item to the end of a list?",
+    "options": [
+      "add()",
+      "push()",
+      "append()",
+      "insert()"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "In JavaScript, which keyword declares a constant?",
+    "options": [
+      "let",
+      "var",
+      "const",
+      "static"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "Which symbol starts a comment in Python?",
+    "options": [
+      "//",
+      "#",
+      "--",
+      "/*"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "High Tech Modern Language",
+      "Hyper Transfer Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which club has Lionel Messi scored the most goals for?",
+    "options": [
+      "PSG",
+      "Inter Miami",
+      "FC Barcelona",
+      "Argentina"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What is the output of bool('')?",
+    "options": [
+      "True",
+      "False",
+      "None",
+      "error"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which operator gets the address of a variable in C?",
+    "options": [
+      "*",
+      "&",
+      "%",
+      "#"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Which array method in JavaScript returns a new filtered array?",
+    "options": [
+      "map()",
+      "forEach()",
+      "filter()",
+      "find()"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does 'npm' stand for?",
+    "options": [
+      "Node Package Manager",
+      "New Program Maker",
+      "Network Process Monitor",
+      "Node Project Module"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Which C++ container is a dynamic array?",
+    "options": [
+      "std::list",
+      "std::map",
+      "std::vector",
+      "std::set"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "What does print(type(3.0)) show in Python?",
+    "options": [
+      "<class 'int'>",
+      "<class 'float'>",
+      "<class 'double'>",
+      "<class 'str'>"
+    ],
+    "answer": 1
+  }
+]
